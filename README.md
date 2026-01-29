@@ -94,6 +94,16 @@ Currently, Instagram serves over **2 billion monthly active users**. Supporting 
 
 ---
 
+---
+
+## Part E: Group Reflection
+
+1.  **Complexity Surprise**: [Discuss what surprised the group most about the app's complexity, e.g., the scale of data or real-time requirements.]
+2.  **Beyond Working Code**: [Explain why just writing code is insufficient, considering maintenance, scalability, and teamwork.]
+3.  **Teamwork Lessons**: [Share insights on collaboration, role division, and communication during this assignment.]
+
+---
+
 ## Conclusion
 
 Instagram's engineering architecture demonstrates sophisticated solutions to complex distributed systems challenges. The platform's ability to serve billions of users while maintaining real-time responsiveness relies on careful architectural decisions: distributed databases for scalability, CDNs for performance, optimistic UI updates for perceived speed, and adaptive streaming for network efficiency.
@@ -110,4 +120,15 @@ The challenges of scaling, maintaining cross-platform consistency, ensuring secu
 *   Industry standards: HLS (RFC 8216), DASH (ISO/IEC 23009-1)
 *   CAP Theorem: Brewer, E. (2012). "CAP Twelve Years Later: How the 'Rules' Have Changed"
 
+
 ---
+
+## Group Contributions
+
+| Name | Role | Contribution Description |
+| :--- | :--- | :--- |
+| **Asingura Philip** | Coordinator | [e.g., Organized meetings, drafted Part A, final review] |
+| **Mokili Promise Pierre** | App Analyst | [e.g., Identified core features, analyzed UI components] |
+| **Geno Owor Joshua** | System Thinker | [e.g., Mapped out backend architecture, DB schema reasoning] |
+| **Nkangi Moses** | Risk Analyst | [e.g., Developed scalability scenarios (Part C), risk analysis] |
+| **Kasingye Leone** | Documentation Lead | [e.g., Formatted README, compiled references, Part D details] |
