@@ -31,7 +31,7 @@ Another important benefit is support for code reviews and quality control. Most 
 In summary, version control is essential for team-based software development because it enables collaboration, maintains accountability, improves code quality, and ensures the stability of the shared codebase. Without it, coordinating work within a team would be far more difficult and risky.
 
 
-**How  code reviews  improve both software quality and developer  skills**
+**4 How  code reviews  improve both software quality and developer  skills**
 Code reviews improve software quality by identifying bugs, logical errors, and security issues early, when they are easier and cheaper to fix. They ensure that the code follows agreed coding standards and design rules, which makes the system more consistent and easier to maintain. Reviews also encourage better code structure and clearer logic, reducing technical debt and making future updates safer. In addition, they increase shared understanding of the codebase, so the project does not depend on one person alone.
 
 Code reviews also improve developer skills. Feedback from reviewers helps developers learn better coding practices and avoid repeating mistakes. By reviewing others’ code, developers are exposed to new ideas and different ways of solving problems. The process strengthens problem-solving and design thinking, as developers must explain and justify their decisions. It also improves communication skills and builds confidence over time.
